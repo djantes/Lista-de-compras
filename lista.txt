@@ -3,5 +3,6 @@ Devo comprar:
 Maça
 Banana
 Abacaxi
+Goiaba
 
 Essa é minha lista de frutas.
