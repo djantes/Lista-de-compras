@@ -1,8 +1,8 @@
 Devo comprar:
 
-Maça
-Abacaxi
-Uvas
-Goiaba
+maça
+abacaxi
+uvas
+goiaba
 
 Essa é minha lista de frutas.
