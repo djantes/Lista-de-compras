@@ -1,0 +1,7 @@
+Devo comprar:
+
+Maça
+Banana
+Abacaxi
+
+Essa é minha lista de frutas.
