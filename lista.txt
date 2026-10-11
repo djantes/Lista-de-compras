@@ -2,6 +2,7 @@ Devo comprar:
 
 Maça
 Abacaxi
+Uvas
 Goiaba
 
 Essa é minha lista de frutas.
